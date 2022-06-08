@@ -1,7 +1,7 @@
-# Escolha entre gato ou cachorro e aprecie.
+# Gerador de imagens utilizando Js
 
 
 
 
 
-### Gerador de imagens utilizando Js
+### Escolha entre gato ou cachorro e aprecie.
